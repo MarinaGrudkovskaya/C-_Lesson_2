@@ -1,0 +1,15 @@
+C:\Users\Георгий\Videos\Георгий\C#_repit\Lesson_2\Example_02\bin\Debug\net6.0\Example_02.exe
+C:\Users\Георгий\Videos\Георгий\C#_repit\Lesson_2\Example_02\bin\Debug\net6.0\Example_02.deps.json
+C:\Users\Георгий\Videos\Георгий\C#_repit\Lesson_2\Example_02\bin\Debug\net6.0\Example_02.runtimeconfig.json
+C:\Users\Георгий\Videos\Георгий\C#_repit\Lesson_2\Example_02\bin\Debug\net6.0\Example_02.dll
+C:\Users\Георгий\Videos\Георгий\C#_repit\Lesson_2\Example_02\bin\Debug\net6.0\Example_02.pdb
+C:\Users\Георгий\Videos\Георгий\C#_repit\Lesson_2\Example_02\obj\Debug\net6.0\Example_02.csproj.AssemblyReference.cache
+C:\Users\Георгий\Videos\Георгий\C#_repit\Lesson_2\Example_02\obj\Debug\net6.0\Example_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Георгий\Videos\Георгий\C#_repit\Lesson_2\Example_02\obj\Debug\net6.0\Example_02.AssemblyInfoInputs.cache
+C:\Users\Георгий\Videos\Георгий\C#_repit\Lesson_2\Example_02\obj\Debug\net6.0\Example_02.AssemblyInfo.cs
+C:\Users\Георгий\Videos\Георгий\C#_repit\Lesson_2\Example_02\obj\Debug\net6.0\Example_02.csproj.CoreCompileInputs.cache
+C:\Users\Георгий\Videos\Георгий\C#_repit\Lesson_2\Example_02\obj\Debug\net6.0\Example_02.dll
+C:\Users\Георгий\Videos\Георгий\C#_repit\Lesson_2\Example_02\obj\Debug\net6.0\refint\Example_02.dll
+C:\Users\Георгий\Videos\Георгий\C#_repit\Lesson_2\Example_02\obj\Debug\net6.0\Example_02.pdb
+C:\Users\Георгий\Videos\Георгий\C#_repit\Lesson_2\Example_02\obj\Debug\net6.0\Example_02.genruntimeconfig.cache
+C:\Users\Георгий\Videos\Георгий\C#_repit\Lesson_2\Example_02\obj\Debug\net6.0\ref\Example_02.dll
